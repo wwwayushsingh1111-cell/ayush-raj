@@ -72,8 +72,8 @@ export function Hero() {
           <div className="animate-float relative aspect-square overflow-hidden rounded-3xl border border-border glass">
             <div aria-hidden className="absolute inset-0 bg-gradient-to-tr from-primary/10 via-transparent to-accent-2/10" />
             <Image
-              src="/hero-ai-visual.png"
-              alt="Abstract AI neural network visualization"
+              src="/ayushpic.png"
+              alt="Ayush Raj"
               fill
               priority
               sizes="(max-width: 768px) 100vw, 420px"
